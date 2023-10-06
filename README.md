@@ -1,0 +1,2 @@
+# studypython
+Como criar repositótio
